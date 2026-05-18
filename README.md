@@ -40,7 +40,7 @@ Paid subscription mode supports sitemap generation for up to **50,000 URLs** per
 
 ## Download
 
-Download the latest release from the **Releases** section:
+Download the latest release from the GitHub Releases section:
 
 ```text
 https://github.com/dotsilicon/dotsilicon-sitemap-generator/releases
